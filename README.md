@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Venom&text=HuiatePark&color=random)
+![header](https://capsule-render.vercel.app/api?type=Venom&text=HuiatePark&color=random&fontColor=ffffff)
 <!--
 **HuitaePark/HuitaePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
