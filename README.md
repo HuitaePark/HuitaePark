@@ -1,4 +1,3 @@
-<div>
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=HuiatePark&color=random&fontColor=ffffff)
 
 
@@ -21,7 +20,6 @@
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuitaePark&show_icons=true&theme=radical)
 
-</div>
 
 <!--
 **HuitaePark/HuitaePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
