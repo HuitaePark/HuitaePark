@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&text=HuiatePark&color=random&fontColor=ffffff)
-<hr>
+![header](https://capsule-render.vercel.app/api?type=Waving&text=HuiatePark&color=random&fontColor=ffffff)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuitaePark&show_icons=true&theme=radical)
 [![Solved.ac
