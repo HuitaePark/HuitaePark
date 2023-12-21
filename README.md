@@ -13,7 +13,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heetea3174)](https://solved.ac/heetea3174/)
 
 <!--
 **HuitaePark/HuitaePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
