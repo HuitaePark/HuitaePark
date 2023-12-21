@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=HuiatePark&color=random&fontColor=ffffff)
 <hr>
-# 💪Skills
-
-### Platforms & Languages
+<h1>💪Skills</h1>
+<h3>Platforms & Languages</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
