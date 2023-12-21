@@ -16,8 +16,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heetea3174)](https://solved.ac/heetea3174)
-<br />
-<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuitaePark&show_icons=true&theme=radical)
 
 
