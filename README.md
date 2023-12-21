@@ -15,7 +15,9 @@
 </p>
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heetea3174)](https://solved.ac/heetea3174/)
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuitaePark&show_icons=true&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuitaePark)](https://github.com/HuitaePark/github-readme-stats)
 
 <!--
