@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=HuiatePark&height=200&fontAlignY=40&color=gradient&fontColor=ffffff)
-<div align="center"> 
+
 <h4>:wave: Welcome my github profile !</h4>
-</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuitaePark&show_icons=true&theme=radical)
 [![Solved.ac
