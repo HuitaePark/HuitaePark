@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=HuiatePark&color=random&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=HuiatePark&height=400&color=random&fontColor=ffffff)
 
 
 
