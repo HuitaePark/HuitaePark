@@ -11,7 +11,7 @@
    <br/>
 
 <h1>💪Skills(도전중)</h1>
-<h3>Platforms & Languages</h3>
+<h3>Platforms & Languages(도전중)</h3>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
