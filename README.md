@@ -10,8 +10,8 @@
    <br/>
    <br/>
 
-<h1>💪Skills(도전중)</h1>
-<h3>Platforms & Languages(도전중)</h3>
+## 💻 Tech Stacks
+### Languages
 
 <img src="https://img.shields.io/badge/JAVA-3A75B0?style=for-the-badge&logo=JAVA&logoColor=white" height="28px"/></a>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white" height="28px"/></a>
