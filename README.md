@@ -2,8 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome+to+my+GitHub!!&height=200&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=60)
 <br />
-# :computer: About me:
-
+# :computer: About me
 
   
 ## :two_men_holding_hands: TeamProject
