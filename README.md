@@ -1,6 +1,14 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome+to+my+GitHub!!&height=200&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=60)
+## :computer: TeamProject
+딥러닝 AI를 이용한 자동 방향전환 전동휠체어 "휙" : https://github.com/DasomExpo (진행중)
+
+숙소 기반 여행코스 추천 사이트 "여가" : https://github.com/TrabelMaker (진행중)
+
+## :runner: SoloProject
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heetea3174)](https://solved.ac/heetea3174)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
