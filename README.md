@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome+to+my+GitHub!!&height=200&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=60)
 <br />
-*밑바닥 까지 파고들기를 좋아하는 개발자 지망생 입니다.*!(•̀ᴗ•́)و ̑̑
+*밑바닥 까지 파고들기를 좋아하는 백엔드 개발자 지망생 입니다.*!(•̀ᴗ•́)و ̑̑
 <br>
 ## ⚒️Tech Stack
 <h3>Front End</h3>
