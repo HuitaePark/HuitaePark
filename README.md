@@ -45,7 +45,7 @@
 딥러닝 AI를 이용한 자동 방향전환 전동휠체어 시스템 **"휙"** : https://github.com/DasomExpo (진행중)
 <br />
 <br />
-숙소 기반 여행코스 추천 사이트 **"여가"** : [https://github.com/TrabelMaker](https://github.com/TravelMaker-DMU) (진행중)
+숙소 기반 여행코스 추천 사이트 **"여가"** : https://github.com/TravelMaker-DMU (진행중)
 
 ## :runner: SoloProject
 (예정)
