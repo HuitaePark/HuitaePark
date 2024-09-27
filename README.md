@@ -59,6 +59,8 @@
 
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=Waving&height=100&color=gradient&section=footer)
+
 </div>
 
 
