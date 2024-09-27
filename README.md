@@ -4,7 +4,8 @@
 <br />
 *밑바닥 까지 파고들기를 좋아하는 백엔드 개발자 지망생 입니다.*!(•̀ᴗ•́)و ̑̑
 <br>
-## ⚒️Tech Stack
+<details>
+ <summary><h2>⚒️Tech Stack</h2></summary>
 <h3>Front End</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +40,7 @@
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+</details>
   
 ## :two_men_holding_hands: TeamProject
 딥러닝 AI를 이용한 자동 방향전환 전동휠체어 시스템 **"휙"** : https://github.com/DasomExpo (진행중)
@@ -57,8 +58,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heetea3174)](https://solved.ac/heetea3174)
 
 </div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
