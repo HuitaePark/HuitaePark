@@ -21,11 +21,7 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heetea3174)](https://solved.ac/heetea3174)
 
-</div>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&height=100&color=timeGradient&section=footer)
-
-</div>
 
 
 <!--
