@@ -5,12 +5,10 @@
 *밑바닥 까지 파고들기를 좋아하는 백엔드 개발자 지망생 입니다.*!(•̀ᴗ•́)و ̑̑
 <br>
 ## 💼 Experience
-  
-## :two_men_holding_hands: TeamProject
-딥러닝 AI를 이용한 자동 방향전환 전동휠체어 시스템 **"휙"** : https://github.com/DasomExpo (진행중)
-<br />
-<br />
-숙소 기반 여행코스 추천 사이트 **"여가"** : https://github.com/TravelMaker-DMU (진행중)
+2024/03 ~ 2025/02 다솜 - 동양미래대학교 대학 컴퓨터공학부 전공동아리 (부회장)<br />
+2024/06 ~ 2024/08 동양미래 몰입식 캠프(캡스톤 디자인) 수료<br />
+2024/09 ~ 2024/12 구름톤 유니브 동양미래대 수료<br />
+## :trophy: Competition
 
 ## :runner: SoloProject
 (예정)
