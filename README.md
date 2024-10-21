@@ -9,7 +9,7 @@
 2024/06 ~ 2024/08 동양미래대 공학기술교육혁신센터 몰입식 캠프(캡스톤 디자인) 수료<br />
 2024/09 ~ 2024/12 구름톤 유니브 동양미래대 수료<br />
 ## :trophy: Competition
-2024/04 ~ 2024/10 동양미래EXPO - 자동 얼굴방향 전동휠체어 시스템 [휙](https://github.com/HuitaePark/Whick_BackEnd) (진행중)<br />
+2024/04 ~ 2024/10 동양미래EXPO - 자동 얼굴방향 전동휠체어 시스템 [휙](https://github.com/HuitaePark/Whick_BackEnd)<br />
 2024/05 ~ 2024/11 교내 경진대회 - 여행 코스 추천 사이트 [여가](https://github.com/HuitaePark/YeoGa_BackEnd) (진행중)
 ## :runner: SoloProject
 (예정)
