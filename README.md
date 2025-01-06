@@ -13,7 +13,7 @@
 2024/04 ~ 2024/10 동양미래EXPO - 자동 얼굴방향 전동휠체어 시스템 [휙](https://github.com/HuitaePark/Whick_BackEnd)  **장려상** 🏅 <br />
 2024/05 ~ 2024/11 교내 경진대회 - 여행 코스 추천 사이트 [여가](https://github.com/HuitaePark/YeoGa_BackEnd) **최우수상** :1st_place_medal:
 ## :runner: SoloProject
-2024/11 ~ 2024/12 게시판 만들기 프로젝트 [뒷배](https://github.com/HuitaePark/Backer-blog)
+2024/11 ~ 개인 게시판 만들기 프로젝트 [뒷배](https://github.com/HuitaePark/Backer-blog)
 <br />
 <br />
 <div align=center>
