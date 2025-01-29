@@ -2,8 +2,15 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Heetae's+GitHub&height=180&fontAlignY=40&color=timeGradient&fontColor=ffffff&fontSize=60)
 <br />
-*밑바닥 까지 파고들기를 좋아하는 백엔드 개발자 지망생 입니다.*!(•̀ᴗ•́)و ̑̑
+>*밑바닥 까지 파고들기를 좋아하는 백엔드 개발자 지망생 입니다.*!(•̀ᴗ•́)و ̑̑<br>
+> <br>
+>문제를 마주하면 겉핥기로 넘기지 않고, 원리를 이해할 때까지 깊이 탐구합니다.<br>
+>단순한 기능 구현에 그치지 않고, 왜 그렇게 동작하는지를 분석하며 지식을 쌓아갑니다.<br>
+>시행착오를 겪더라도 이를 성장의 과정으로 받아들이며 끊임없이 나아가고 싶습니다!
 <br>
+<details>
+<summary>더보기</summary>
+  
 ## 💼 Experience
 2024/03 ~ 2025/02 다솜 - 동양미래대학교 컴퓨터공학부 전공동아리 (부회장)<br />
 2024/06 ~ 2024/08 동양미래대 공학기술교육혁신센터 몰입식 캠프(캡스톤 디자인) 수료<br />
@@ -16,6 +23,7 @@
 2024/11 ~ 2024/12 게시판 만들기 프로젝트 [뒷배](https://github.com/HuitaePark/Backer-blog)
 <br />
 <br />
+</details>
 <div align=center>
 
   [![Solved.ac
