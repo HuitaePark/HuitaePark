@@ -1,6 +1,6 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=👋Hi+there!&height=180&fontAlignY=40&color=timeGradient&fontColor=ffffff&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello,I'm+Baki👋&height=180&fontAlignY=40&color=timeGradient&fontColor=ffffff&fontSize=60)
 <br />
 >*밑바닥 까지 파고들기를 좋아하는 백엔드 개발자 지망생 입니다.*!(•̀ᴗ•́)و ̑̑<br>
 > <br>
