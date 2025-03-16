@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
 
-<br>
-
 >I'm an aspiring backend developer who loves getting down to the nitty-gritty of every problem! (•̀ᴗ•́)و ̑̑<br>
 > <br>
 >I’m not satisfied with just scratching the surface—I dive in until I fully understand the underlying principles. <br>
