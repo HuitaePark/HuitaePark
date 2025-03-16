@@ -14,7 +14,7 @@
 > Even if it means learning through trial and error, I see every stumble as a chance to grow and keep on pushing forward.
 <br>
 <details>
-<summary>더보기</summary>
+<summary>Show more</summary>
   
 ## 💼 Experience
 2024/03 ~ 2025/02 다솜 - 동양미래대학교 컴퓨터공학부 전공동아리 (부회장)<br />
