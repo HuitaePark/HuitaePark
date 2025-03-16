@@ -2,10 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello,I'm+Baki👋&height=180&fontAlignY=40&color=timeGradient&fontColor=ffffff&fontSize=60)
 <br />
->*밑바닥 까지 파고들기를 좋아하는 백엔드 개발자 지망생 입니다.*!(•̀ᴗ•́)و ̑̑<br>
+>I'm an aspiring backend developer who loves getting down to the nitty-gritty of every problem! (•̀ᴗ•́)و ̑̑<br>
 > <br>
->문제를 마주하면 겉핥기로 넘기지 않고, 원리를 이해할 때까지 깊이 탐구합니다.<br>
->시행착오를 겪더라도 이를 성장의 과정으로 받아들이며 끊임없이 나아가고 싶습니다!
+>I’m not satisfied with just scratching the surface—I dive in until I fully understand the underlying principles. <br>
+> Even if it means learning through trial and error, I see every stumble as a chance to grow and keep on pushing forward.
 <br>
 <details>
 <summary>더보기</summary>
