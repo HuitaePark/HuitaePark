@@ -33,9 +33,6 @@
 </details>
 <div align=center>
 
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heetea3174)](https://solved.ac/heetea3174)
-
 
 
 
