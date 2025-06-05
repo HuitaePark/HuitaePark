@@ -27,7 +27,7 @@
 2025/03 ~ 2025/11 교내 스마트SW 캡스톤 경진대회 - 헬스장 줄서기 시스템 [몇세트 남으셨어요?](https://github.com/DMU-Capstone/Capstone_Backend) 진행중
 ## :runner: SideProject
 2024/11 ~ 2024/12 게시판 만들기 프로젝트 [뒷배](https://github.com/HuitaePark/Backer-blog) <br />
-2025/03 ~ 2025/04 여가ver2 - 여행 랜덤추천사이트 [무작정](https://github.com/HuitaePark/Backer-blog) 진행중 <br />
+2025/03 ~ 2025/05 여가ver2 - 여행 랜덤추천사이트 [무작정](https://github.com/HuitaePark/mujakjung-backend) 진행중 <br />
 <br />
 <br />
 </details>
