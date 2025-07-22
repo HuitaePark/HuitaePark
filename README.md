@@ -8,11 +8,13 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
 
->I'm an aspiring backend developer who loves getting down to the nitty-gritty of every problem! (•̀ᴗ•́)و ̑̑<br>
+>I'm an aspiring backend developer who loves digging deep into the core of every problem! (•̀ᴗ•́)و ̑̑<br>
 > <br>
->I’m not satisfied with just scratching the surface—I dive in until I fully understand the underlying principles. <br>
-> Even if it means learning through trial and error, I see every stumble as a chance to grow and keep on pushing forward.
+>I don’t settle for surface-level understanding—I keep going until I truly grasp the underlying principles.<br>
+> I’m not afraid of trial and error. Every mistake is a stepping stone, and every challenge is a chance to grow.<br>
+> I believe that consistent, steady progress—no matter how small—builds the path to becoming a better developer. 🚀
 <br>
+
 <details>
 <summary>Show more</summary>
   
