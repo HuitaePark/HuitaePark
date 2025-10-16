@@ -13,7 +13,6 @@
 >I don’t settle for surface-level understanding—I keep going until I truly grasp the underlying principles.<br>
 > I’m not afraid of trial and error. Every mistake is a stepping stone, and every challenge is a chance to grow.<br>
 > I believe that consistent, steady progress—no matter how small—builds the path to becoming a better developer. 🚀
-<br>
 
 
 
