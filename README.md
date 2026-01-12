@@ -13,6 +13,12 @@ I don’t settle for surface-level understanding—I keep diving until I truly g
 - Growth Mindset: I’m not afraid of trial and error. Every mistake is a stepping stone, and every challenge is a chance to grow.
 - Consistency: I believe that steady progress—no matter how small—builds the path to becoming a solid engineer. 🚀
 
+### 🧩 Open Source Contributions
+
+- Spring Boot
+  - Support repeatable `--environment` option for `bootBuildImage`
+  - PR: spring-projects/spring-boot#48792
+
 <div align=center>
 
 
