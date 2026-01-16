@@ -17,7 +17,11 @@ I don’t settle for surface-level understanding—I keep diving until I truly g
 
 - Spring Boot
   - Support repeatable `--environment` option for `bootBuildImage`
-  - PR: spring-projects/spring-boot#48792
+  - PR: spring-projects/spring-boot#48792  
+  
+  - Allow beans created in `MockRestServiceServerAutoConfiguration` to be replaced by user-provided alternatives
+  - PR: spring-projects/spring-boot#48825
+
 
 <div align=center>
 
