@@ -13,12 +13,14 @@ I don’t settle for surface-level understanding—I keep diving until I truly g
 - Growth Mindset: I’m not afraid of trial and error. Every mistake is a stepping stone, and every challenge is a chance to grow.
 - Consistency: I believe that steady progress—no matter how small—builds the path to becoming a solid engineer. 🚀
 
-### 🧩 Open Source Contributions
-#### Spring Boot
-  - Support repeatable `--environment` option for `bootBuildImage`
-  - PR: spring-projects/spring-boot#48792
-  - Allow beans created in `MockRestServiceServerAutoConfiguration` to be replaced by user-provided alternatives
-  - PR: spring-projects/spring-boot#48825
+## 🧩 Open Source Contributions
+- <h3><a href="https://github.com/spring-projects/spring-boot">Spring Boot</a></h3>
+
+  - Support repeatable `--environment` option for `bootBuildImage`   
+  spring-projects/spring-boot#48792  
+  
+  - Allow beans created in `MockRestServiceServerAutoConfiguration` to be replaced by user-provided alternatives   
+  spring-projects/spring-boot#48825
 
 
 <div align=center>
