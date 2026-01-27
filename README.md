@@ -14,7 +14,7 @@ I don’t settle for surface-level understanding—I keep diving until I truly g
 - Consistency: I believe that steady progress—no matter how small—builds the path to becoming a solid engineer. 🚀
 
 ## 🧩 Open Source Contributions
-- <h3><a href="https://github.com/spring-projects/spring-boot">Spring Boot</a></h3>
+- <h3><a href="https://github.com/spring-projects/spring-boot">spring-projects/spring-boot</a></h3>
 
   - Support repeatable `--environment` option for `bootBuildImage`   
   spring-projects/spring-boot#48792  
