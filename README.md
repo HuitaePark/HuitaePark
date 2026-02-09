@@ -23,21 +23,10 @@ I don’t settle for surface-level understanding—I keep diving until I truly g
   - Allow beans created in `MockRestServiceServerAutoConfiguration` to be replaced by user-provided alternatives   
   spring-projects/spring-boot#48825
 
-
+- <h3><a href="https://github.com/spring-projects/spring-ai">spring-projects/spring-ai</a></h3>
+  
+  - Add a guide for accessing HTTP headers in the MCP (Model Context Protocol) Server.  
+  spring-projects/spring-ai#5414
+  
 <div align=center>
 
-
-<!--
-**HuitaePark/HuitaePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-//
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
