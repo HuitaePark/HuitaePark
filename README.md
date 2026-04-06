@@ -27,6 +27,11 @@ I don’t settle for surface-level understanding—I keep diving until I truly g
   
   - Add a guide for accessing HTTP headers in the MCP (Model Context Protocol) Server.  
   spring-projects/spring-ai#5414
+
+- <h3><a href="https://github.com/assertj/assertj">assertj/assertj</a></h3>
+
+  - Contributed a regression test for SoftAssertions, validating the removal of the Byte Buddy proxy  
+    assertj/assertj#4127
   
 <div align=center>
 
