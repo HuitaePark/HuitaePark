@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
 
-Hi there! I'm a Backend Developer who loves digging deep into the core of every problem! (•̀ᴗ•́)و ̑̑<br>
-I don’t settle for surface-level understanding—I keep diving until I truly grasp the underlying principles.<br>
+Hi there! I'm a backend developer interested in Java, Spring, and open source.<br>
+I enjoy understanding problems from the root cause and improving systems with reliable, testable changes.<br>
 - Growth Mindset: I’m not afraid of trial and error. Every mistake is a stepping stone, and every challenge is a chance to grow.
-- Consistency: I believe that steady progress—no matter how small—builds the path to becoming a solid engineer. 🚀
+- Consistency: I believe that steady progress—no matter how small—builds the path to becoming a solid engineer. 
 
 ## 🧩 Open Source Contributions
 - <h3><a href="https://github.com/spring-projects/spring-boot">spring-projects/spring-boot</a></h3>
