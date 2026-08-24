@@ -15,23 +15,34 @@ I enjoy understanding problems from the root cause and improving systems with re
 - Consistency: I believe that steady progress—no matter how small—builds the path to becoming a solid engineer. 
 
 ## 🧩 Open Source Contributions
+
+### Merged Contributions
+
 - <h3><a href="https://github.com/spring-projects/spring-boot">spring-projects/spring-boot</a></h3>
 
-  - Support repeatable `--environment` option for `bootBuildImage`   
-  spring-projects/spring-boot#48792  
+  - Support repeatable `--environment` option for `bootBuildImage`  
+    [spring-projects/spring-boot#48792](https://github.com/spring-projects/spring-boot/pull/48792)
   
-  - Allow beans created in `MockRestServiceServerAutoConfiguration` to be replaced by user-provided alternatives   
-  spring-projects/spring-boot#48825
+  - Allow beans created in `MockRestServiceServerAutoConfiguration` to be replaced by user-provided alternatives  
+    [spring-projects/spring-boot#48825](https://github.com/spring-projects/spring-boot/pull/48825)
 
 - <h3><a href="https://github.com/spring-projects/spring-ai">spring-projects/spring-ai</a></h3>
   
-  - Add a guide for accessing HTTP headers in the MCP (Model Context Protocol) Server.  
-  spring-projects/spring-ai#5414
+  - Add a guide for accessing HTTP headers in the MCP (Model Context Protocol) Server  
+    [spring-projects/spring-ai#5414](https://github.com/spring-projects/spring-ai/pull/5414)
 
 - <h3><a href="https://github.com/assertj/assertj">assertj/assertj</a></h3>
 
   - Contributed a regression test for `SoftAssertions`, validating the removal of the Byte Buddy proxy  
-    assertj/assertj#4127
+    [assertj/assertj#4127](https://github.com/assertj/assertj/pull/4127)
+
+
+### Open Pull Requests
+
+- <h3><a href="https://github.com/spring-projects/spring-ai">spring-projects/spring-ai</a></h3>
+
+  - Preserve user-defined metadata when re-adding documents retrieved from `OracleVectorStore`  
+    [spring-projects/spring-ai#6702](https://github.com/spring-projects/spring-ai/pull/6702)
   
 <div align=center>
 
