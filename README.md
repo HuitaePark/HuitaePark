@@ -43,6 +43,11 @@ I enjoy understanding problems from the root cause and improving systems with re
 
   - Preserve user-defined metadata when re-adding documents retrieved from `OracleVectorStore`  
     [spring-projects/spring-ai#6702](https://github.com/spring-projects/spring-ai/pull/6702)
+
+- <h3><a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></h3>
   
+  - Fix coordination Redis initialization from REDIS_* when response caching is disabled  
+    [BerriAI/litellm#38768](https://github.com/BerriAI/litellm/pull/38768)
+
 <div align=center>
 
