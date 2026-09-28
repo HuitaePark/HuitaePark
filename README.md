@@ -39,8 +39,6 @@ I enjoy understanding problems from the root cause and improving systems with re
 
 ### Open Pull Requests
 
-- <h3><a href="https://github.com/spring-projects/spring-ai">spring-projects/spring-ai</a></h3>
-
   - Preserve user-defined metadata when re-adding documents retrieved from `OracleVectorStore`  
     [spring-projects/spring-ai#6702](https://github.com/spring-projects/spring-ai/pull/6702)
 
