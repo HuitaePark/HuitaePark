@@ -20,7 +20,7 @@ I enjoy understanding problems from the root cause and improving systems with re
 
 - <h3><a href="https://github.com/openjdk/jdk">openjdk/jdk</a></h3>
  
-  - Fixes errors in the `DrbgParameters.Capability` Javadoc example.
+  - Fixes errors in the `DrbgParameters.Capability` Javadoc example.  
     [openjdk/jdk#33086](https://github.com/openjdk/jdk/pull/33086)
 
 - <h3><a href="https://github.com/spring-projects/spring-boot">spring-projects/spring-boot</a></h3>
