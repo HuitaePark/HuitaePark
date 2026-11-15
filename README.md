@@ -42,11 +42,11 @@ I enjoy understanding problems from the root cause and improving systems with re
     [assertj/assertj#4127](https://github.com/assertj/assertj/pull/4127)
 
 
-### Open Pull Requests
+<!-- ### Open Pull Requests
 
   - Preserve user-defined metadata when re-adding documents retrieved from `OracleVectorStore`  
-    [spring-projects/spring-ai#6702](https://github.com/spring-projects/spring-ai/pull/6702)
-
+    [spring-projects/spring-ai#6702](https://github.com/spring-projects/spring-ai/pull/6702) 
+-->
 
 <div align=center>
 
