@@ -16,8 +16,6 @@ I enjoy understanding problems from the root cause and improving systems with re
 
 ## 🧩 Open Source Contributions
 
-### Merged Contributions
-
 - <h3><a href="https://github.com/openjdk/jdk">openjdk/jdk</a></h3>
  
   - Fixes errors in the `DrbgParameters.Capability` Javadoc example.  
