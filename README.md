@@ -39,12 +39,16 @@ I enjoy understanding problems from the root cause and improving systems with re
   - Contributed a regression test for `SoftAssertions`, validating the removal of the Byte Buddy proxy  
     [assertj/assertj#4127](https://github.com/assertj/assertj/pull/4127)
 
+- <h3><a href="https://github.com/can1357/oh-my-pi">can1357/oh-my-pi</a></h3>
 
-<!-- ### Open Pull Requests
+  - Fixed Korean IME cursor misalignment in Paradev terminals by correcting Hangul Compatibility Jamo character width.  
+    [can1357/oh-my-pi#20246](https://github.com/can1357/oh-my-pi/pull/20246)
+
+
+### Open Pull Requests
 
   - Preserve user-defined metadata when re-adding documents retrieved from `OracleVectorStore`  
     [spring-projects/spring-ai#6702](https://github.com/spring-projects/spring-ai/pull/6702) 
--->
 
 <div align=center>
 
