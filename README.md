@@ -50,5 +50,8 @@ I enjoy understanding problems from the root cause and improving systems with re
   - Preserve user-defined metadata when re-adding documents retrieved from `OracleVectorStore`  
     [spring-projects/spring-ai#6702](https://github.com/spring-projects/spring-ai/pull/6702) 
 
+  - Invoke subagents with framework-provided arguments (`AgenticScope`, `InvocationParameters`) in the GOAP, P2P and Blackboard planners  
+    [langchain4j/langchain4j#7292](https://github.com/langchain4j/langchain4j/pull/7292)
+
 <div align=center>
 
